@@ -1,0 +1,23 @@
+
+Order ID: O001
+Invoice Date: 02/11/2026
+Customer ID: C001
+Full name: Nguyen Van A
+Address: Ho Chi Minh City
+Phone number: 0901234567
+Package: romanticPackage
+Products in package:
+Product ID: RP001
+Product type: Rose Perfume
+Volume: 50.0 ml
+Unit price: 20000.0 VND/ml
+Product price: 1000000.0 VND
+--------------------
+Product ID: SG001
+Product type: Dry Skin Shower Gel
+Volume: 100.0 ml
+Unit price: 20000.0 VND/ml
+Product price: 2000000.0 VND
+--------------------
+Order Price: 3000000.0 VND
+-----------------------------------
